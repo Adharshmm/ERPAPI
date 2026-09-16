@@ -1,0 +1,6 @@
+@COSMOS_ERPAPI_HostAddress = http://localhost:5018
+
+GET {{COSMOS_ERPAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
